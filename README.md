@@ -6,7 +6,7 @@ Projects
 
 - [Hyperskill problem of the day](#hyperskill-problem-of-the-day)
 - [Cinema Room Manager](#cinema-room-manager)
-- [Simple Banking System (IN-PROGRESS)](#simple-banking-system-in-progress)
+- [Cinema Room REST Service] (IN-PROGRESS)](#cinema-room-REST-service)
 
 
 
@@ -17,3 +17,7 @@ Code challenges tackled during project development
 ## Cinema Room Manager
 A CL application that helps manage a cinema theatre: sell tickets, check available seats, see sales statistics, and more.   
 https://github.com/devfep/hyperskill-CinemaRoomManager
+
+
+## Cinema Room REST Service (IN-PROGRESS)
+In this project, you will create a simple Spring REST service that will help you manage a small movie theatre. Handle HTTP requests in controllers, create services and respond with JSON objects. Make good use of Spring and write a REST service that can show the available seats, sell and refund tickets, and display the statistics of your venue. Pass me the popcorn, please! https://hyperskill.org/projects/189
